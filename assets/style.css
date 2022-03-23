@@ -43,3 +43,4 @@ body{
 a,.header-mini-btn svg:hover{
   cursor: url('cat.cur'),auto;
 }
+@media screen and (max-width: 1221px) {#clock,.logo-light{display:none; }}
